@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReloadController", "ReloadController\ReloadController.csproj", "{B313E0B8-5DE3-4616-B9C2-375B859D423B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReloadController", "src\ReloadController\ReloadController.csproj", "{B313E0B8-5DE3-4616-B9C2-375B859D423B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scooter", "scooter\scooter.csproj", "{8B3B2341-4345-4C2F-9CB2-A60CB6D0C12D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scooter", "src\scooter\scooter.csproj", "{8B3B2341-4345-4C2F-9CB2-A60CB6D0C12D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsub", "Dsub\dsub.csproj", "{1F4FC658-779C-485C-BF52-B12FB256F810}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsub", "src\Dsub\dsub.csproj", "{1F4FC658-779C-485C-BF52-B12FB256F810}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
